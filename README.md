@@ -34,18 +34,33 @@ Focused on delivering fluid web based applications leveraging the latest technol
 
 ### Backend
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 30px; padding: 20px">
-    <a style="display:flex;flex-direction:column; align-items:center; justify-content:center;" href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />Express</a>
-     <a style="display:flex;flex-direction:column; align-items:center; justify-content:center;" href="https://php.net/" target="_blank" rel="noreferrer">
-        <img src="img/php.png" width="60" height="40" />
-        PHP
-    </a>
-    <a style="display:flex;flex-direction:column; align-items:center; justify-content:center;" href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />SQL</a>
-	<a style="display:flex;flex-direction:column; align-items:center; justify-content:center;" href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />Next Js </a>
-	<a style="display:flex;flex-direction:column; align-items:center; justify-content:center;" href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />Nginx</a>
-	<a style="display:flex;flex-direction:column; align-items:center; justify-content:center;" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />Node.js</a>
-    <a style="display:flex;flex-direction:column; align-items:center; justify-content:center;" href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />Laravel</a>
-    <a style="display:flex;flex-direction:column; align-items:center; justify-content:center;" href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />Bash</a>
+<div style="">
+    <div style="float:left; width: 25%;">
+        <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+        <div>
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
+        </div>
+        <div>Express</div>
+       </a>
+    </div>
+    <div style="float:left; width: 25%;">
+        <a href="https://php.net/" target="_blank" rel="noreferrer"> 
+        <div>
+         <img src="img/php.png" alt="express" width="60" height="40" />
+        </div>
+        <div>PHP</div>
+       </a>
+    </div>
+      <a href="https://php.net/" target="_blank" rel="noreferrer">
+            <img src="img/php.png" width="60" height="40" />
+            PHP
+        </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />SQL</a>
+	<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />Next Js </a>
+	<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />Nginx</a>
+	<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />Node.js</a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />Laravel</a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />Bash</a>
 </div>
 
 ### Integration, Tooling & API's
@@ -85,3 +100,9 @@ Features
 -   Interacts with the Spotify Web API
 -   Oauth via Spoity API
 -   Custom react audio player with volume control </br>
+
+
+|             |             |
+| ----------- | ----------- |
+| <a>hello</a>      | Title|
+| Paragraph   | Text        |
