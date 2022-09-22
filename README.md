@@ -2,8 +2,9 @@
 
 Professional software developer focused on delivering fluid web based applications leveraging the latest technologies and frameworks.
 
-Connect with me: 
-- [LinkedIn](https://www.linkedin.com/in/rory-o-brien-683901b8)
+Connect with me:
+
+-   [LinkedIn](https://www.linkedin.com/in/rory-o-brien-683901b8)
 
 ## Languages, Tools & Frameworks:
 
@@ -26,22 +27,22 @@ Connect with me:
         <td>
                <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="100px" />Angular</a>
         </td>
-        <td>
-              <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100px" />HTML5</a>
+         <td>
+             <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="100px" />React</a>
         </td>
-        <td>
-              <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="100px" />Sass</a>
+         <td>
+            <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="100px" />Vue</a>
         </td>
     </tr>
     <tr>
+        <td>
+              <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="100px" />Sass</a>
+        </td>
         <td>
                <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100px" />Bootstrap</a>
         </td>
         <td>
                	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100px" />CSS</a>
-        </td>
-        <td>
-             <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="100px" />React</a>
         </td>
         <td>
              <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="100px" />React Native</a>
@@ -51,14 +52,17 @@ Connect with me:
         </td>
     </tr>
     <tr>
+       <td>
+              <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100px" />HTML5</a>
+        </td>
         <td>
             <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="100px" />Tailwind</a>
         </td>
         <td>
-            <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="100px" />Vue</a>
+              <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="100px" />Webpack</a>
         </td>
         <td>
-              <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="100px" />Webpack</a>
+              <a href="https://postcss.org/" target="_blank" rel="noreferrer"> <img src="img/pcss.svg" alt="webpack" width="100px" />PostCSS</a>
         </td>
     </tr>
 </table>
@@ -115,13 +119,16 @@ Connect with me:
             </a>
         </td>
         <td>
-	        <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="100px" /> Jest</a>
+	        <a href="https://stripe.com/" target="_blank" rel="noreferrer"> <img src="img/stripe.png" alt="jest" width="100px" />Stripe</a>
         </td>
         <td>
 	        <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="img/jira.png" alt="jest" width="100px" />Jira</a>
         </td>
         <td>
-	        <a href="https://stripe.com/en-de" target="_blank" rel="noreferrer"> <img src="img/jira.png" alt="jest" width="100px" />Jira</a>
+	        <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="100px" /> Jest</a>
+        </td>
+         <td>
+           <a href="https://phpunit.de/" target="_blank" rel="noreferrer"><img src="https://phpunit.de/img/phpunit.svg" alt="bash" width="100px" />PHP Unit</a>
         </td>
     </tr>
 </table>
