@@ -8,11 +8,11 @@ ___
 
 #### Fontend
 
-Typescript, Javascript, Webpack, SWC, Babel, Jest, Cypress, CSS & pre processors.
+Typescript, Javascript, 
 
 #### Backend
 
-NodeJS, PHP, SQL, Nginx, Laravel.
+NodeJS, PHP, SQL,
 
 #### Frameworks
 
@@ -20,4 +20,4 @@ NextJS, Laravel, Tailwind, React, Angular, Vue, React Native, OpenTelemetry.
 
 #### Additional Skills, Tooling & API's
 
-AWS, Scripting(Shell/Typesript/Javascript), GraphQL, HTTP, Linux, Deno, PHP Unit, StorybookJS, Github Actions(CI/CD), Docker, Postman, WebOs, Tizen, AFTV, Jira, Logging, Tracing, Metrics, Analysing performance, Debugging.
+Webpack, SWC, Babel, Jest, Cypress, CSS & pre processors, AWS, Scripting(Shell/Typesript/Javascript), GraphQL, HTTP, Linux, Deno, Nginx, SSL, PHP Unit, StorybookJS, Github Actions(CI/CD), Docker, Postman, WebOs, Tizen, AFTV, Jira, Logging, Tracing, Metrics, Analysing performance, Server maintainence, Deploymens, Debugging.
