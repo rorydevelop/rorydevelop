@@ -18,4 +18,4 @@ NextJS, Laravel, Tailwind, React, Angular, Vue, React Native, OpenTelemetry.
 
 ### Additional Skills, Tooling & API's
 
-AWS, Scripting(Shell/Typesript/Javascript), GraphQL, HTTP, Linux, Deno, PHP Unit, StorybookJS, Github Actions(CI/CD), Docker, Postman, WebOs, Tizen, AFTV, Jira, Logging, Tracing, Metrics, Analysing performance.
+AWS, Scripting(Shell/Typesript/Javascript), GraphQL, HTTP, Linux, Deno, PHP Unit, StorybookJS, Github Actions(CI/CD), Docker, Postman, WebOs, Tizen, AFTV, Jira, Logging, Tracing, Metrics, Analysing performance, Debugging.
