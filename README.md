@@ -1,9 +1,3 @@
-### About
-
-Professional software developer focused on delivering fluid web based applications leveraging the latest technologies and frameworks.
-
-___
-
 ### Languages, Frameworks & Tooling:
 
 #### Fontend
